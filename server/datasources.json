@@ -1,0 +1,12 @@
+{
+  "mongodb-datasource": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/loopback-tutoriel",
+    "database": "loopback-tutoriel",
+    "password": "",
+    "name": "mongodb-datasource",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
